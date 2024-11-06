@@ -12,10 +12,13 @@ After turning on the power switch, the game begins with the buttons twinkling in
 The game ideally can be played both by pressing buttons by hand or with a toy hammer.
 
 Hardware requirement: 
-available (Universität Basel Materials):
 Arduino UNO
 8x 220 Ohm Resistor (blue) for Buttons
 Cables
 Motherboard
 Screen
+8x LED-push button switch, 60mm, 12V 
+4 Ohm 3 Watt Speaker for Arduino
+Tip120 Transistor 3 pieces
+
 
